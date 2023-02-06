@@ -52,7 +52,7 @@ if __name__ == "__main__":
 `python -m venv venv`
 
 3. Activar el ambiente virtual con el siguiente comando:
-`venv\Scripts\activate.bat` <br>
+`venv\Scripts\activate` <br>
 Por consola nos mostrara que emos accedido a `(venv)`
 
 4. Instala Flask y Matplotlib en el ambiente virtual:
