@@ -52,20 +52,19 @@ if __name__ == "__main__":
 `python -m venv venv`
 
 3. Activar el ambiente virtual con el siguiente comando:
-`venv\Scripts\activate.bat`
+`venv\Scripts\activate.bat` <br>
 Por consola nos mostrara que emos accedido a `(venv)`
 
 4. Instala Flask y Matplotlib en el ambiente virtual:
-`pip install flask matplotlib`
+`pip install flask matplotlib` <br>
 Si ejecutamos `pip list` visualizaremos a manera de lista las librerias instaladas
 
 5. Crea un archivo `app.py` y crear el código en Python:
-
 
 6. Crear la carpeta `templates` y crear el archivo `index.html` y su respectivo código
 
 7. Una vez activado **(venv)** Ejecutar el siguiente comando para iniciar la aplicación Flask:
 `python app.py`
 
-8. Abre un navegador web y accede a la dirección http://localhost:5000/. 
+8. Abre un navegador web y accede a la dirección http://localhost:5000/ <br>
 Verás la página web con el gráfico generado por Matplotlib.
